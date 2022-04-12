@@ -3,7 +3,7 @@ Algoritmo "3 - Idades"
 // Modulo 1: Logica de Programacao
 // Capitulo 3: Estruturas Sequenciais
 // Professor: Nelio Alves
-// Descrição: Fazer um programa para ler o nome e idade de duas pessoas.
+// Descricao: Fazer um programa para ler o nome e idade de duas pessoas.
 //            Ao final mostrar uma mensagem com os nomes e a idade media
 //            entre essas pessoas, com uma casa decimal.
 // Autor(a)    : Caio de Assis Guimaraes

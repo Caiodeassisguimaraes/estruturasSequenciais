@@ -2,8 +2,8 @@ Algoritmo "8 - Consumo"
 // Curso: Formacao Desenvolvedor Moderno
 // Modulo 1: Logica de Programacao
 // Capitulo 3: Estruturas Sequenciais
-// Professor: Nélio Alves
-// Descricao: Fazer um programa para ler a distância total (em km) percorrida
+// Professor: Nelio Alves
+// Descricao: Fazer um programa para ler a distancia total (em km) percorrida
 //            por um carro, bem como o total de combustivel gasto por este
 //            carro ao percorrer tal distancia. Seu programa deve mostrar o
 //            consumo medio do carro, com tres casas decimais.
@@ -19,7 +19,7 @@ Inicio
 
    escreva("Distancia percorrida: ")
    leia(distanciaPercorrida)
-   escreva("Combustível gasto: ")
+   escreva("Combustivel gasto: ")
    leia(combustivelGasto)
    
    consumoMedio <- distanciaPercorrida/combustivelGasto

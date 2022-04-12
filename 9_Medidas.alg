@@ -3,7 +3,7 @@ Algoritmo "9 - Medidas"
 // Modulo 1: Logica de Programacao
 // Capitulo 3: Estruturas Sequenciais
 // Professor: Nelio Alves
-// Descricao: Fazer um programa para ler três medidas A, B e C.
+// Descricao: Fazer um programa para ler tres medidas A, B e C.
 //            Em seguida, calcular e mostrar (imprimir os dados com quatro
 //            casas decimais):
 //            a) a area do quadrado que tem lado A

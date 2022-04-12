@@ -4,7 +4,7 @@ Algoritmo "2 - Retangulo"
 // Capitulo 3: Estruturas Sequenciais
 // Professor: Nelio Alves
 // Descricao: Fazer um programa para ler as medidas da base e altura de um
-//            retângulo. Em seguida, mostrar o valor da area, perimetro e
+//            retangulo. Em seguida, mostrar o valor da area, perimetro e
 //            diagonal deste retangulo, com quatro casas decimais.
 // Autor(a)    : Caio de Assis Guimaraes
 // Data atual  : 19/03/2022

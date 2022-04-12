@@ -3,7 +3,7 @@ Algoritmo "7 - Pagamento"
 // Modulo 1: Logica de Programacao
 // Capitulo 3: Estruturas Sequenciais
 // Professor: Nelio Alves
-// Descrição: Fazer um programa para ler o nome de um(a) funcionario(a),
+// Descricao: Fazer um programa para ler o nome de um(a) funcionario(a),
 //            o valor que ele(a) recebe por hora, e a quantidade de horas
 //            trabalhadas por ele(a). Ao final, mostrar o valor do pagamento
 //            do funcionario com uma mensagem explicativa.
