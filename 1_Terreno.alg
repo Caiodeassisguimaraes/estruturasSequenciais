@@ -6,7 +6,7 @@ Algoritmo "1 - Terreno"
 // Descricao: Fazer um programa para ler as medidas da largura e comprimento
 //           de um terreno retangular com uma casa decimal, bem como o valor
 //           do metro quadrado do terreno com duas casas decimais. Em seguida,
-//           o programa deve mostrar o valor da área do terreno, bem como o
+//           o programa deve mostrar o valor da area do terreno, bem como o
 //           valor do preco do terreno, ambos com duas casas decimais.
 // Autor(a)    : Caio de Assis Guimaraes
 // Data atual  : 19/03/2022

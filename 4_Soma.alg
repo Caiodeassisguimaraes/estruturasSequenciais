@@ -4,7 +4,7 @@ Algoritmo "4 - Soma"
 // Capitulo 3: Estruturas Sequenciais
 // Professor: Nelio Alves
 // Descricao: Fazer um programa para ler dois valores inteiros X e Y, e
-//            depois mostrar na tela o valor da soma destes números.
+//            depois mostrar na tela o valor da soma destes numeros.
 // Autor(a): Caio de Assis Guimaraes
 // Data atual: 19/03/2022
 Var
