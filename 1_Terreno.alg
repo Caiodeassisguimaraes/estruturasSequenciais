@@ -1,14 +1,14 @@
 Algoritmo "1 - Terreno"
-// Curso: Formação Desenvolvedor Moderno
-// Módulo 1: Lógica de Programação
-// Capítulo 3: Estruturas Sequenciais
-// Professor: Nélio Alves
+// Curso: Formacao Desenvolvedor Moderno
+// Modulo 1: Logica de Programacao
+// Capitulo 3: Estruturas Sequenciais
+// Professor: Nelio Alves
 // Descrição: Fazer um programa para ler as medidas da largura e comprimento
 //           de um terreno retangular com uma casa decimal, bem como o valor
 //           do metro quadrado do terreno com duas casas decimais. Em seguida,
 //           o programa deve mostrar o valor da área do terreno, bem como o
 //           valor do preço do terreno, ambos com duas casas decimais.
-// Autor(a)    : Caio de Assis Guimarães
+// Autor(a)    : Caio de Assis Guimaraes
 // Data atual  : 19/03/2022
 Var
 

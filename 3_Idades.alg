@@ -1,12 +1,12 @@
 Algoritmo "3 - Idades"
-// Curso: Formação Desenvolvedor Moderno
-// Módulo 1: Lógica de Programação
-// Capítulo 3: Estruturas Sequenciais
-// Professor: Nélio Alves
+// Curso: Formacao Desenvolvedor Moderno
+// Modulo 1: Logica de Programacao
+// Capitulo 3: Estruturas Sequenciais
+// Professor: Nelio Alves
 // Descrição: Fazer um programa para ler o nome e idade de duas pessoas.
-//            Ao final mostrar uma mensagem com os nomes e a idade média
+//            Ao final mostrar uma mensagem com os nomes e a idade media
 //            entre essas pessoas, com uma casa decimal.
-// Autor(a)    : Caio de Assis Guimarães
+// Autor(a)    : Caio de Assis Guimaraes
 // Data atual  : 19/03/2022
 Var
 
@@ -31,7 +31,7 @@ Inicio
    
    media <- (idade1+idade2)/2
    
-   escreva("A idade média de ",nome1," e ",nome2," é de ",media:3:1," anos")
+   escreva("A idade media de ",nome1," e ",nome2," e de ",media:3:1," anos")
 
 
 Fimalgoritmo

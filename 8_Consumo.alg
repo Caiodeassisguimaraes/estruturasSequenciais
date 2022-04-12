@@ -1,13 +1,13 @@
 Algoritmo "8 - Consumo"
-// Curso: Formação Desenvolvedor Moderno
-// Módulo 1: Lógica de Programação
-// Capítulo 3: Estruturas Sequenciais
+// Curso: Formacao Desenvolvedor Moderno
+// Modulo 1: Logica de Programacao
+// Capitulo 3: Estruturas Sequenciais
 // Professor: Nélio Alves
-// Descrição: Fazer um programa para ler a distância total (em km) percorrida
-//            por um carro, bem como o total de combustível gasto por este
-//            carro ao percorrer tal distância. Seu programa deve mostrar o
-//            consumo médio do carro, com três casas decimais.
-// Autor(a)    : Caio de Assis Guimarães
+// Descricao: Fazer um programa para ler a distância total (em km) percorrida
+//            por um carro, bem como o total de combustivel gasto por este
+//            carro ao percorrer tal distancia. Seu programa deve mostrar o
+//            consumo medio do carro, com tres casas decimais.
+// Autor(a)    : Caio de Assis Guimaraes
 // Data atual  : 19/03/2022
 Var
 

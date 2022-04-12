@@ -1,12 +1,12 @@
 Algoritmo "10 - Duracao"
-// Curso: Formação Desenvolvedor Moderno
-// Módulo 1: Lógica de Programação
-// Capítulo 3: Estruturas Sequenciais
-// Professor: Nélio Alves
-// Descrição: Fazer um programa para ler uma duração de tempo em segundos,
-//            daí imprimir na tela esta duração no formato
+// Curso: Formacao Desenvolvedor Moderno
+// Modulo 1: Logica de Programacao
+// Capitulo 3: Estruturas Sequenciais
+// Professor: Nelio Alves
+// Descricao: Fazer um programa para ler uma duracao de tempo em segundos,
+//            dai imprimir na tela esta duracao no formato
 //            horas:minutos:segundos.
-// Autor(a)    : Caio de Assis Guimarães
+// Autor(a)    : Caio de Assis Guimaraes
 // Data atual  : 19/03/2022
 Var
 

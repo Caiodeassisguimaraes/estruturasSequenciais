@@ -1,12 +1,12 @@
 Algoritmo "2 - Retangulo"
-// Curso: Formação Desenvolvedor Moderno
-// Módulo 1: Lógica de Programação
-// Capítulo 3: Estruturas Sequenciais
-// Professor: Nélio Alves
-// Descrição: Fazer um programa para ler as medidas da base e altura de um
-//            retângulo. Em seguida, mostrar o valor da área, perímetro e
-//            diagonal deste retângulo, com quatro casas decimais.
-// Autor(a)    : Caio de Assis Guimarães
+// Curso: Formacao Desenvolvedor Moderno
+// Modulo 1: Logica de Programacao
+// Capitulo 3: Estruturas Sequenciais
+// Professor: Nelio Alves
+// Descricao: Fazer um programa para ler as medidas da base e altura de um
+//            retângulo. Em seguida, mostrar o valor da area, perimetro e
+//            diagonal deste retangulo, com quatro casas decimais.
+// Autor(a)    : Caio de Assis Guimaraes
 // Data atual  : 19/03/2022
 Var
 
